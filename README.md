@@ -1,79 +1,77 @@
-# AuroraKidsMusic
-Musiklern-App für Kinder – spielerisch, sicher und kreativ.
-# AuroraKidsMusic
-
-AuroraKidsMusic ist die erste Kinder-Musiklern-App der AuroraKids-Produktlinie von AuroraStudiosHQ.  
-Kinder entdecken Musik spielerisch – mit Farben, Formen und einfachen Übungen.
+# 🎵 AuroraKidsMusic
+AuroraKidsMusic is the first children’s music‑learning app inside the **AuroraKids** product line under **AuroraStudiosHQ**.  
+Kids explore music through colors, shapes, and playful interactions.
 
 ---
 
-## Kurzbeschreibung
+## ✨ Purpose
+AuroraKidsMusic is designed to help children:
 
-AuroraKidsMusic hilft Kindern:
+- discover sounds and rhythms  
+- connect music with colors and visuals  
+- learn through play  
+- build confidence and creativity  
 
-- Töne und Rhythmen zu entdecken  
-- Musik mit Farben zu verbinden  
-- Spaß an Musik zu entwickeln  
-
-Die App ist bewusst einfach, freundlich und sicher gestaltet.
-
----
-
-## Features (geplant)
-
-- Farben-Ton-System  
-- Einfache Übungen  
-- Belohnungen  
-- Kindgerechte Navigation  
-- Elternbereich (später)  
+The app is intentionally simple, friendly, and safe for young users.
 
 ---
 
-## Zugehörigkeit innerhalb von AuroraStudiosHQ
-
-- Produktlinie: AuroraKids  
-- Dach: https://github.com/AuroraStudiosHQ  
-
-Weitere Produktlinien:
-
-- AeroBuildPro 
-- AuroraMusic  
-- AuroraMusicStudio  
-- AuroraTrade  
+## 🧸 Key Features (planned)
+- Color‑based tone system  
+- Simple music exercises  
+- Fun rewards and animations  
+- Child‑friendly navigation  
+- Optional parent area (later)  
 
 ---
 
-## Technisches Setup (geplant)
+## 🧩 Part of the AuroraKids Product Line
+AuroraKidsMusic belongs to the AuroraKids ecosystem:
 
-- Framework: Flutter  
-- Plattformen: Android, iOS  
+➡️ AuroraKids (product line hub)  
+https://github.com/AuroraStudiosHQ/AuroraKids
 
-### Struktur
-
-- lib/  
-- assets/  
-- docs/  
-- test/  
+More AuroraKids apps will be added in the future.
 
 ---
 
-## Roadmap
+## 🌌 Part of the AuroraStudiosHQ Ecosystem
+AuroraKidsMusic is developed under the multi‑product studio:
 
-1. Konzept  
-2. Flutter-Projekt  
-3. Prototyp-Screens  
-4. Ton-Farb-System  
-5. Testphase  
-6. Feinschliff  
+➡️ AuroraStudiosHQ  
+https://github.com/AuroraStudiosHQ
+
+Other product lines include:
+
+- 🛠️ AeroBuildSuite — tools for professional craftsmen  
+  https://github.com/AuroraStudiosHQ/AeroBuildSuite  
+- 🎤 AuroraMusic — AI‑enhanced karaoke  
+  https://github.com/AuroraStudiosHQ/AuroraMusic  
+- 🎙️ AuroraMusicStudio — creator tools for vocal production  
+  https://github.com/AuroraStudiosHQ/AuroraMusicStudio  
+- 📈 AuroraTrading — AI‑powered crypto trading  
+  https://github.com/AuroraStudiosHQ/AuroraTrading  
 
 ---
 
-## Design-Richtlinien
+## 🎨 Design Philosophy
+AuroraKidsMusic follows a child‑friendly design language:
 
-- Warme Farben  
-- Gut lesbare Fonts  
-- Klare Icons  
-- Weiche Animationen  
+- warm, friendly colors  
+- soft shapes and icons  
+- minimal text  
+- intuitive navigation  
+- gentle animations  
+
+---
+
+## 🗺 Roadmap
+1. Define learning goals  
+2. Build Flutter project  
+3. Create first UI screens  
+4. Implement color‑tone system  
+5. Playtesting with children  
+6. Polish & release  
 
 ---
 
